@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BreakfastApp/1.0.0": {
+        "dependencies": {
+          "BreakfastApp.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "BreakfastApp.dll": {}
+        }
+      },
+      "BreakfastApp.Contracts/1.0.0": {
+        "runtime": {
+          "BreakfastApp.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BreakfastApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BreakfastApp.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
