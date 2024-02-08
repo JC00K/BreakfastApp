@@ -28,3 +28,4 @@
 /Users/jeremycook/Desktop/coding/BreakfastApp/BreakfastApp/obj/Debug/net8.0/BreakfastApp.pdb
 /Users/jeremycook/Desktop/coding/BreakfastApp/BreakfastApp/obj/Debug/net8.0/BreakfastApp.genruntimeconfig.cache
 /Users/jeremycook/Desktop/coding/BreakfastApp/BreakfastApp/obj/Debug/net8.0/ref/BreakfastApp.dll
+/Users/jeremycook/Desktop/coding/BreakfastApp/BreakfastApp/bin/Debug/net8.0/ErrorOr.dll

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KxABuG5MHzqI2F5zxDZb9YJvnTxyad+xOso0+3NXW+i1lC9nwKOU3bT67RJoToO077a6zZ97+EeqwAv07B5zsg==",
+  "dgSpecHash": "Zc3mIsvQA/HqyBIhfJ8s2W0HfLrO9sz4Rh/o6iQlbS2Hh0IIsKB81fcDfUmfbexQNNxvH1Ws2icc23rFa0oqfg==",
   "success": true,
   "projectFilePath": "/Users/jeremycook/Desktop/coding/BreakfastApp/BreakfastApp/BreakfastApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jeremycook/.nuget/packages/erroror/1.9.0/erroror.1.9.0.nupkg.sha512"
+  ],
   "logs": []
 }
